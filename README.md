@@ -10,8 +10,10 @@ Projeto desenvolvido para analisar dados Gerados pelo ChatGPT no Google Colab in
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+![dash_PB_final](https://github.com/Ricardinho146/Analise-de-Dados-Gerados-por-Chat-GPT-Python-Power-BI-/assets/64876358/f7d91c4e-3669-4a98-b4d2-fbc113656d82#vitrinedev)
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+ 
+## Descrição do Projeto:
+Objetivo: O objetivo do projeto é testar soluções para a elaboração de dados aleatórios com **Chat GPT** e realizar análises de formas rápidas e simples integrando o **Power BI** com **Jupyter Notebook** no **Google Colab**.
+
